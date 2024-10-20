@@ -1,0 +1,13 @@
+nav {
+    background-color: #24a2b8;
+    padding: 10px;
+}
+
+#tableContainer {
+    padding: 20px;
+    padding-left: 50px;
+}
+
+.ids {
+    font-weight: bold;
+}
