@@ -11,3 +11,9 @@ nav {
 .ids {
     font-weight: bold;
 }
+
+#serieCard {
+    width: 20%;
+    margin-top: 40px;
+    padding: 0px;
+}
